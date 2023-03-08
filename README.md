@@ -1,4 +1,4 @@
-# Welcome to my Github! 💻
+## Welcome to my Github! 💻
 
 I'm Hajdi, fullstack smart contract and dapps developer. Extremely passionate about blockchain technology. I'm currently building smart contracts and decentralized apps on Tezos.
 
