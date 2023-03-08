@@ -1,6 +1,6 @@
 ## Welcome to my Github! 💻
 
-I'm Hajdi, fullstack smart contract and dapps developer. Extremely passionate about blockchain technology. I'm currently building smart contracts and decentralized apps on Tezos.
+I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate about blockchain technology. I'm currently building smart contracts and decentralized apps on Tezos.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&duration=4000&pause=1000&color=28EBF7&center=false&width=535&lines=Smart+Contracts+and+Dapps;Cryptography,+Algorithms+and+Data+Structures;Smart+Contract+Security;Blockchain+Architecture+and+Consensus+Mechanisms;Distributed+Systems+and+Peer-to-Peer+Networks;)](https://git.io/typing-svg)
 
