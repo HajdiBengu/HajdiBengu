@@ -1,6 +1,6 @@
 ## Welcome to my Github! 💻
 
-I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate about blockchain technology. I'm currently building smart contracts and decentralized apps on Tezos.
+I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate about blockchain technology. I'm currently building smart contracts and decentralized apps on Ethereum and Tezos.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&duration=4000&pause=1000&color=28EBF7&center=false&width=535&lines=Smart+Contracts+and+Dapps;Cryptography,+Algorithms+and+Data+Structures;Smart+Contract+Security;Blockchain+Architecture+and+Consensus+Mechanisms;Distributed+Systems+and+Peer-to-Peer+Networks;)](https://git.io/typing-svg)
 
@@ -8,7 +8,8 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&style=for-the-badge&logoColor=white)
-![TML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&style=for-the-badge&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&style=for-the-badge&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=for-the-badge&logoColor=white)
 ![SmartPy](https://img.shields.io/badge/-SmartPy-66aacc?&style=for-the-badge)
 ![LigoJS](https://img.shields.io/badge/-Ligo%20JS-F7DF1E?&style=for-the-badge)
 
