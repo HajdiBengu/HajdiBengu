@@ -11,7 +11,7 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&style=for-the-badge&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=for-the-badge&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?&style=for-the-badge)
-![Ethers](https://img.shields.io/badge/-Ethers JS-3178C6?&style=for-the-badge)
+![Ethers](https://img.shields.io/badge/-Ethers%20JS-3178C6?&style=for-the-badge)
 ![SmartPy](https://img.shields.io/badge/-SmartPy-66aacc?&style=for-the-badge)
 ![LigoJS](https://img.shields.io/badge/-Ligo%20JS-F7DF1E?&style=for-the-badge)
 
