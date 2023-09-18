@@ -26,3 +26,5 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white)
+
+**'Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.'** <em>Saint-Exupéry</em>
