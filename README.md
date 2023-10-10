@@ -22,6 +22,7 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&style=for-the-badge&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=Svelte&style=for-the-badge&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black)
