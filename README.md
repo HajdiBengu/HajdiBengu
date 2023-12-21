@@ -8,10 +8,9 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=go&style=for-the-badge&logoColor=#00ADD8)
 ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&style=for-the-badge&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=for-the-badge&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?&style=for-the-badge)
-![Ethers](https://img.shields.io/badge/-Ethers-3178C6?&style=for-the-badge)
 ![SmartPy](https://img.shields.io/badge/-SmartPy-66aacc?&style=for-the-badge)
 ![LigoJS](https://img.shields.io/badge/-Ligo%20JS-F7DF1E?&style=for-the-badge)
 
@@ -22,6 +21,8 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&style=for-the-badge&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=Svelte&style=for-the-badge&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=black)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?&style=for-the-badge)
+![Ethers](https://img.shields.io/badge/-Ethers-3178C6?&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge)
