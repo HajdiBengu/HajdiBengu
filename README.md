@@ -8,7 +8,7 @@ I'm Hajdi, fullstack smart contract and dapp developer. Extremely passionate abo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&style=for-the-badge&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-FFFFFF?logo=go&style=for-the-badge&logoColor=00ADD8)
 ![HTML](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&style=for-the-badge&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=for-the-badge&logoColor=white)
 ![SmartPy](https://img.shields.io/badge/-SmartPy-66aacc?&style=for-the-badge)
