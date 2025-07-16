@@ -2,9 +2,9 @@
 
 > Software Engineer • Backend-Centric Full-Stack Dev • Blockchain Tinkerer
 
-Hi, I’m Hajdi. I build software like they’re mechanical watches: precise, self-contained, and durable.  I'm fascinated by:[![Typing SVG](https://readme-typing-svg.demolab.com?font=Blimone&duration=4000&pause=1000&color=22BB88&width=800&lines=Systems+that+scale+without+panicking;Networks+that+self-heal+like+magic;Code+that+survives+a+refactor+storm;Encrypted+apps+that+even+I+can’t+break;Blockchains+that+don’t+need+trust+to+work;Peer-to-peer+networks+that+talk+behind+my+back;Smart+contracts+that+don’t+blow+up+gas;Architectures+clean+enough+to+frame;Minimal+schemas+with+maximum+zen;Microservices+that+act+like+adults;Error+handling+that+doesn’t+blame+me;Transactions+that+commit+to+their+choices;Logs+that+tell+the+truth+and+nothing+but;Interfaces+that+don’t+leak+their+feelings;Go+routines+that+know+when+to+stop;Code+comments+that+age+gracefully;Consensus+without+drama;Trustless+systems+you+can+trust;Data+flows+like+tea+through+a+ceramic+pot)](https://git.io/typing-svg)
+Hi, I’m Hajdi. I build software like they’re mechanical watches: precise, self-contained, and durable.  I'm fascinated by:[![Typing SVG](https://readme-typing-svg.demolab.com?font=Blimone&duration=4000&pause=1000&color=22BB88&width=800&lines=Systems+that+scale+without+panicking;Networks+that+self-heal+like+magic;Code+that+survives+a+refactor+storm;Encrypted+apps+that+even+I+can’t+break;Blockchains+that+don’t+need+trust+to+work;Peer-to-peer+networks+that+talk+behind+my+back;Smart+contracts+that+don’t+blow+up+gas;Architectures+clean+enough+to+frame;Minimal+interfaces+with+maximum+aura;Microservices+that+act+like+adults;Error+handling+that+doesn’t+blame+me;Transactions+that+commit+to+their+choices;Logs+that+tell+the+truth+and+nothing+but;Interfaces+that+don’t+leak+their+feelings;Go+routines+that+know+when+to+stop;Code+comments+that+age+gracefully;Consensus+without+drama;Trustless+systems+you+can+trust;Data+flows+like+tea+through+a+ceramic+pot)](https://git.io/typing-svg)
 
-Right now, I’m working on a content marketplace where every product is traceable on-chain and every message is encrypted. It blends blockchain, AI, and cryptography into a weirdly elegant microservice stew.  Most days you’ll find me writing Typescript & Go, sketching protocols on paper, and reverse engineering supply chain bottlenecks.
+Right now, I’m working on a content marketplace where every product is traceable on-chain and every message is encrypted. It blends blockchain, AI, and cryptography into a weirdly elegant microservice stew.  Most days you’ll find me writing Go & Typescript, sketching protocols on paper, and reverse engineering supply chain bottlenecks.
 
 ---
 
@@ -31,7 +31,7 @@ Right now, I’m working on a content marketplace where every product is traceab
 ![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-white?logo=GoogleCloud&style=for-the-badge&logoColor=4285F4) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=Supabase&style=for-the-badge&logoColor=black) ![PocketBase](https://img.shields.io/badge/-PocketBase-B8DBE4?logo=PocketBase&style=for-the-badge&logoColor=black) ![Postgresql](https://img.shields.io/badge/-Vercel-000000?logo=VErcel&style=for-the-badge) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=JsonWebTokens&style=for-the-badge)
 
 
-### Other Tools
+#### Other Tools
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black)  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge) ![pnpm](https://img.shields.io/badge/-pnpm-gray?logo=pnpm&style=for-the-badge&logoColor=F69220) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white)
 
 ---
