@@ -45,4 +45,6 @@ Infrastructure & Deployment: Docker, CI Pipelines, Google Cloud, Git
 📫 **Get in touch**: hajdibengu@protonmail.com  
 🌍 [LinkedIn](https://linkedin.com/in/hajdi-bengu) | [GitHub](https://github.com/HajdiBengu) | [Medium](https://medium.com/@hajdibengu)
 
+PS. Nevermind the contributions heatmap, since I mostly work on gitlab self-hosted nowadays.
+
 > *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."* — **Saint-Exupéry**
