@@ -1,58 +1,48 @@
-# 👨‍🚀 Hajdi Bengu
+# 🚀 Hajdi Bengu
 
-> Software Engineer • Backend-Centric Full-Stack Dev • Blockchain Tinkerer
+> **Senior Software Engineer** • Backend Architect • Distributed Systems & Full-Stack Specialist
 
-Hi, I’m Hajdi. I build software like they’re mechanical watches: precise, self-contained, and durable.  I'm fascinated by:[![Typing SVG](https://readme-typing-svg.demolab.com?font=Blimone&duration=4000&pause=1000&color=22BB88&width=800&lines=Systems+that+scale+without+panicking;Networks+that+self-heal+like+magic;Code+that+survives+a+refactor+storm;Encrypted+apps+that+even+I+can’t+break;Blockchains+that+don’t+need+trust+to+work;Peer-to-peer+networks+that+talk+behind+my+back;Smart+contracts+that+don’t+blow+up+gas;Architectures+clean+enough+to+frame;Minimal+interfaces+with+maximum+aura;Microservices+that+act+like+adults;Error+handling+that+doesn’t+blame+me;Transactions+that+commit+to+their+choices;Logs+that+tell+the+truth+and+nothing+but;Interfaces+that+don’t+leak+their+feelings;Go+routines+that+know+when+to+stop;Code+comments+that+age+gracefully;Consensus+without+drama;Trustless+systems+you+can+trust;Data+flows+like+tea+through+a+ceramic+pot)](https://git.io/typing-svg)
+Hi, I’m Hajdi. I build software like they’re mechanical watches: precise, resilient, and built to withstand production storms.
 
-Right now, I’m working on a content marketplace where every product is traceable on-chain and every message is encrypted. It blends blockchain, AI, and cryptography into a weirdly elegant microservice stew.  Most days you’ll find me writing Go & Typescript, sketching protocols on paper, and reverse engineering supply chain bottlenecks.
+Senior Software Engineer specializing in end-to-end system design, backend engineering, distributed systems, and full-stack application architecture. Experienced in translating complex requirements into scalable software systems, making architectural and technology decisions, and delivering production applications across a modern stack. Strong background in Go, TypeScript, API design, microservices, database architecture, deployment and agentic AI.
 
----
-
-### 🧪 Recent Experiments
-- 🔐 End-to-End encrypted chat
-- 📡 Peer-to-peer encrypted messaging in Go
-- 🛠️ Custom Proof-of-Work Blockchain Implementation
-- ⛓️ Authenticity Solution for Suppy Chain Management 
+I mostly work with startups, where I bring a technical founder's perspective, operational resourcefulness, and rigorous engineering standards to fast-paced early-stage teams.
 
 ---
 
-### 🛠️ Tech Stack
- 
-#### Languages
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&style=for-the-badge&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=Typescript&style=for-the-badge&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=for-the-badge&logoColor=white) 
+### 🏛️ Notable Systems & Architecture
 
-#### Web frameworks and technologies
-![ReactJs](https://img.shields.io/badge/-React-61DAFB?logo=React&style=for-the-badge&logoColor=34495E) ![NextJS](https://img.shields.io/badge/-Next%20JS-000000?logo=Next.js&style=for-the-badge&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&style=for-the-badge&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node%20JS-339933?logo=Node.js&style=for-the-badge&logoColor=black) ![Deno](https://img.shields.io/badge/-Deno-70FFAF?logo=Deno&style=for-the-badge&logoColor=black) ![Fastify](https://img.shields.io/badge/-Fastify-000000?logo=Fastify&style=for-the-badge) ![Hono](https://img.shields.io/badge/-Hono-000000?logo=Hono&style=for-the-badge)  ![Gin](https://img.shields.io/badge/-Gin-white?logo=Gin&style=for-the-badge)
-
-#### Databases & More
-![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?logo=PostgreSQL&style=for-the-badge&logoColor=white) ![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-white?logo=GoogleCloud&style=for-the-badge&logoColor=4285F4) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=Supabase&style=for-the-badge&logoColor=black) ![PocketBase](https://img.shields.io/badge/-PocketBase-B8DBE4?logo=PocketBase&style=for-the-badge&logoColor=black) ![Postgresql](https://img.shields.io/badge/-Vercel-000000?logo=VErcel&style=for-the-badge) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=JsonWebTokens&style=for-the-badge)
-
-#### Blockchain
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&style=for-the-badge) ![EVM](https://img.shields.io/badge/-EVM-white?style=for-the-badge) ![Ethers](https://img.shields.io/badge/-Ethers-2535A0?logo=Ethers&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/-Web3%20JS-white?logo=Web3.js&style=for-the-badge&logoColor=F16822) ![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?&style=for-the-badge) ![Tezos](https://img.shields.io/badge/-Tezos-0F61FF?&style=for-the-badge) ![SmartPy](https://img.shields.io/badge/-SmartPy-blue?&style=for-the-badge)
-
-#### Other Tools
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=black)  ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge) ![pnpm](https://img.shields.io/badge/-pnpm-gray?logo=pnpm&style=for-the-badge&logoColor=F69220) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge&logoColor=white)
+- **🤖 Agentic AI Development Pipeline:** Designed structured, agentic AI-assisted development workflows with specialized models, reusable skills, engineering rules, automated testing, guardrails, and quality gates to improve development efficiency while maintaining software quality. All based on the Pragmatic Programmer Principles by Andy Hunt and Dave Thomas.
+- **🚀 Founded Startup & Built MVP:** Conceived, architected, and designed a greenfield startup from the ground up, owning both product vision and end-to-end technical execution. Engineered a comprehensive technical specification and detailed system design for the MVP, establishing data models, tech stack, architecture, and core workflows.
+- **🛒 Enterprise Content Marketplace:** Designed the complete end-to-end system and database architecture (70+ table PostgreSQL schema) powering microservices, payment gateways, and end-to-end encrypted chat systems in Go and TypeScript.
+- **⛓️ Supply Chain Traceability Solution:** Engineered an Ethereum-based blockchain solution that improved product traceability and contributed to a major reduction in counterfeiting.
+- **🔐 Secure Communication Protocols:** Built peer-to-peer encrypted messaging applications and custom PoW blockchain instances in Go to stress-test consensus efficiency and data privacy.
 
 ---
 
-### 🎖️ Core Competencies
-* **System Architecture & Design**: Crafting software blueprints through modern engineering.
-* **Distributed Systems**: Building systems that communicate seamlessly and scale efficiently.
-* **Blockchain Development**: I'm fascinated by consensus mechanisms and decentralization.
-* **Encryption & Cryptography**: Ensuring top-tier data privacy and security.
-* **REST APIs**: Developing powerful and efficient interfaces for smooth application interaction.
-* **Full-Stack Development**: Bringing ideas to life from database logic to engaging user interfaces.
+### 🛠️ Technical Expertise
+
+- **Software Engineering & Architecture:** System design, software architecture, distributed systems, microservices, API design, technical decision-making, end-to-end implementation
+- **Backend & Systems Engineering:** Go, Typescript, Javascript, REST APIs, message broker (RabbitMQ), protocol buffers (gRPC), peer-to-peer networking, authentication and authorization
+- **Startup Leadership:** MVP scoping, technical roadmapping, rapid prototyping, end-to-end ownership, product-to-engineering translation, software architecture
+- **AI-Augmented Engineering:** Agentic coding workflows, multi-model orchestration, AI-assisted implementation, custom and reusable AI skills and prompt engineering, persistent engineering rules, automated TDD, guardrails and quality gates
+- **Database:** PostgreSQL, database architecture, schema design, data modeling, Redis, Supabase
+Infrastructure & Deployment: Docker, CI Pipelines, Google Cloud, Git
+- **Cloud & Infrastructure:** Docker, Google Cloud Platform (GCP), CI/CD Pipelines, Git
+- **Security & Cryptography:** End-to-end encryption, cryptographic protocols, hashes, digital signatures, JWT, role-based access control
+- **Blockchain:** Ethereum, Solidity, smart contracts, decentralized applications
+- **Frontend Engineering:** React, Next.js, Tailwind CSS
 
 ---
 
-### 🌀 Fun Bits
-- 🌌 Exploring agentic and AI assisted development
-- 🕐 I operate on European time, but sometimes my variables think globally  
-- 📖 Check out my [Medium](https://medium.com/@hajdibengu) for some in-depth pieces
-
+### 🌀 Beyond the Code
+- 🌌 Exploring multi-model orchestration and agentic AI-assisted development methodologies.
+- 📖 Writing technical breakdowns and deep-dives on [Medium](https://medium.com/@hajdibengu).
+- 🕐 Operating out of European time zones, building systems that think globally.
+- 🇪🇺 Open to Remote (Europe) & Relocation (EU Blue Card)
 ---
 
-📫 **Say hi**: hajdibengu@protonmail.com  
+📫 **Get in touch**: hajdibengu@protonmail.com  
 🌍 [LinkedIn](https://linkedin.com/in/hajdi-bengu) | [GitHub](https://github.com/HajdiBengu) | [Medium](https://medium.com/@hajdibengu)
 
-**Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.** <em>Saint-Exupéry</em>
+> *"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."* — **Saint-Exupéry**
